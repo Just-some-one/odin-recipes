@@ -1,0 +1,32 @@
+
+body {
+    box-sizing: border-box;
+    width: 900px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 0 auto;
+    padding: 17px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: gray;
+}
+
+h2, h3, ul, ol {
+    text-align: left;
+    margin: 17px;
+}
+
+h3 {
+    margin-left: 33px;
+}
+
+li {
+    margin: 10px;
+}
+
+em, strong {
+    color: red;
+    background-color: white;
+}
